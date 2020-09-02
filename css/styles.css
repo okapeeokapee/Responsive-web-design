@@ -1,5 +1,12 @@
-@media(min-width:600px) and (max-width:800px){
-  body{
-    background: skyblue;
-  }
+/* common */
+/* small screen */
+
+/* medium screen */
+@media(min-width:600px){
+
+}
+
+/* large screen */
+@media(min-width:800px){
+
 }
